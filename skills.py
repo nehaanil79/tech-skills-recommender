@@ -58,7 +58,8 @@ SKILLS = {
     "Linux": ["linux", "unix"],
     "Git": ["git", "github", "gitlab", "bitbucket"],
     # Data & ML
-    "Machine Learning": ["machine learning"],
+    "Machine Learning": ["machine learning", "ai/ml", "ml"],
+    "Artificial Intelligence": ["artificial intelligence", "ai"],
     "Deep Learning": ["deep learning"],
     "TensorFlow": ["tensorflow"],
     "PyTorch": ["pytorch"],
@@ -76,6 +77,20 @@ SKILLS = {
     "Xcode": ["xcode"],
     # Ways of working
     "Agile": ["agile", "scrum"],
+    # Systems & networking
+    "Windows Server": ["windows server"],
+    "Active Directory": ["active directory"],
+    "LAN/WAN": ["lan", "wan", "lan/wan"],
+    "VPN": ["vpn"],
+    "DNS/DHCP": ["dns", "dhcp"],
+    "Troubleshooting": ["troubleshooting", "troubleshoot"],
+    "Technical Support": ["technical support", "help desk", "helpdesk"],
+    # Databases (DBA)
+    "PL/SQL": ["pl/sql", "plsql"],
+    "T-SQL": ["t-sql", "tsql"],
+    "MariaDB": ["mariadb"],
+    "Database Backup & Recovery": ["backup", "recovery", "disaster recovery"],
+    "Performance Tuning": ["performance tuning", "query optimisation", "query optimization"],
 }
 
 
@@ -123,6 +138,16 @@ def main():
         print(f"\n=== {title} ===")
         top = result[result["title"] == title].head(10)
         print(top[["skill", "n_ads", "pct"]].to_string(index=False))
+
+
+    df["skills"] = df["desc_clean"].apply(lambda t: extract_skills(str(t), patterns))
+    empty = df[df["skills"].str.len() == 0]
+
+    print("Ads with no skills, by title:")
+    print(empty["title_clean"].value_counts())
+
+    for text in empty["desc_clean"].sample(5, random_state=1):
+        print("\n---\n", text[:400]) 
 
 
 if __name__ == "__main__":
