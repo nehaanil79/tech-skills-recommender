@@ -1,7 +1,14 @@
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
+
 import plotly.express as px
 import streamlit as st
 
-from skills.skills import SKILLS
+from skills import SKILLS
 from utils import is_title_skill, load_counts
 
 st.title("Which skills do employers want?")
