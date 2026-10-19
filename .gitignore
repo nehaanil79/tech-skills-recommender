@@ -220,4 +220,4 @@ __marimo__/
 .streamlit/secrets.toml
 
 data/*
-!data/skill_counts.csv
+!data\skill_counts.csv
