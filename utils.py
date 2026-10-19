@@ -2,7 +2,7 @@ import re
 import pandas as pd
 import streamlit as st
 
-COUNTS_FILE = r"C:\Users\nehaa\OneDrive\Desktop\Software_Engineer_AI_Projects\tech-skills-recommender\data\skill_counts.csv"
+COUNTS_FILE = r"data\skill_counts.csv"
 
 
 @st.cache_data
