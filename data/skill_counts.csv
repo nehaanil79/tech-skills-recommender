@@ -1,0 +1,758 @@
+title,skill,n_ads,pct,total_ads
+backend developer,CSS,57,39.9,143
+backend developer,HTML,57,39.9,143
+backend developer,MySQL,52,36.4,143
+backend developer,JavaScript,50,35.0,143
+backend developer,Java,42,29.4,143
+backend developer,REST APIs,42,29.4,143
+backend developer,Git,42,29.4,143
+backend developer,PHP,41,28.7,143
+backend developer,Agile,38,26.6,143
+backend developer,Node.js,37,25.9,143
+backend developer,AWS,35,24.5,143
+backend developer,SQL,34,23.8,143
+backend developer,Python,32,22.4,143
+backend developer,MongoDB,32,22.4,143
+backend developer,Angular,26,18.2,143
+backend developer,Spring Boot,24,16.8,143
+backend developer,Troubleshooting,23,16.1,143
+backend developer,jQuery,22,15.4,143
+backend developer,Laravel,20,14.0,143
+backend developer,PostgreSQL,19,13.3,143
+backend developer,Docker,17,11.9,143
+backend developer,React,17,11.9,143
+backend developer,Django,16,11.2,143
+backend developer,CI/CD,15,10.5,143
+backend developer,Azure,13,9.1,143
+backend developer,GCP,12,8.4,143
+backend developer,.NET,12,8.4,143
+backend developer,WordPress,11,7.7,143
+backend developer,C#,11,7.7,143
+backend developer,Kubernetes,10,7.0,143
+backend developer,Redis,10,7.0,143
+backend developer,Linux,10,7.0,143
+backend developer,SQL Server,9,6.3,143
+backend developer,Express.js,8,5.6,143
+backend developer,Oracle,7,4.9,143
+backend developer,Jenkins,6,4.2,143
+backend developer,Go,6,4.2,143
+backend developer,Android,5,3.5,143
+backend developer,Vue.js,5,3.5,143
+backend developer,Artificial Intelligence,4,2.8,143
+backend developer,iOS,4,2.8,143
+backend developer,C++,4,2.8,143
+backend developer,PL/SQL,3,2.1,143
+backend developer,TypeScript,3,2.1,143
+backend developer,Flask,2,1.4,143
+backend developer,Performance Tuning,2,1.4,143
+backend developer,NLP,2,1.4,143
+backend developer,Pandas,2,1.4,143
+backend developer,GraphQL,2,1.4,143
+backend developer,Technical Support,2,1.4,143
+backend developer,Firewalls,1,0.7,143
+backend developer,MariaDB,1,0.7,143
+backend developer,Swift,1,0.7,143
+backend developer,Flutter,1,0.7,143
+backend developer,NumPy,1,0.7,143
+backend developer,Machine Learning,1,0.7,143
+backend developer,T-SQL,1,0.7,143
+database administrator,SQL,62,65.3,95
+database administrator,Database Backup & Recovery,57,60.0,95
+database administrator,Troubleshooting,51,53.7,95
+database administrator,Oracle,37,38.9,95
+database administrator,SQL Server,37,38.9,95
+database administrator,Performance Tuning,35,36.8,95
+database administrator,Linux,29,30.5,95
+database administrator,Technical Support,14,14.7,95
+database administrator,AWS,13,13.7,95
+database administrator,MySQL,11,11.6,95
+database administrator,Active Directory,9,9.5,95
+database administrator,T-SQL,8,8.4,95
+database administrator,PostgreSQL,8,8.4,95
+database administrator,Python,7,7.4,95
+database administrator,MongoDB,7,7.4,95
+database administrator,Azure,6,6.3,95
+database administrator,Agile,6,6.3,95
+database administrator,PL/SQL,5,5.3,95
+database administrator,.NET,5,5.3,95
+database administrator,HTML,5,5.3,95
+database administrator,Express.js,4,4.2,95
+database administrator,PHP,3,3.2,95
+database administrator,Java,3,3.2,95
+database administrator,Firewalls,3,3.2,95
+database administrator,DNS/DHCP,3,3.2,95
+database administrator,Git,2,2.1,95
+database administrator,Ansible,2,2.1,95
+database administrator,JavaScript,2,2.1,95
+database administrator,VPN,2,2.1,95
+database administrator,GCP,2,2.1,95
+database administrator,Cisco,2,2.1,95
+database administrator,MariaDB,1,1.1,95
+database administrator,Artificial Intelligence,1,1.1,95
+database administrator,Redis,1,1.1,95
+database administrator,C++,1,1.1,95
+database administrator,LAN/WAN,1,1.1,95
+database administrator,Machine Learning,1,1.1,95
+database administrator,CI/CD,1,1.1,95
+database administrator,Jenkins,1,1.1,95
+database administrator,Terraform,1,1.1,95
+devops engineer,CI/CD,109,72.7,150
+devops engineer,AWS,109,72.7,150
+devops engineer,Linux,104,69.3,150
+devops engineer,Python,95,63.3,150
+devops engineer,Jenkins,91,60.7,150
+devops engineer,Kubernetes,82,54.7,150
+devops engineer,Docker,81,54.0,150
+devops engineer,Git,78,52.0,150
+devops engineer,Ansible,74,49.3,150
+devops engineer,Troubleshooting,56,37.3,150
+devops engineer,Azure,54,36.0,150
+devops engineer,Terraform,51,34.0,150
+devops engineer,Agile,46,30.7,150
+devops engineer,Java,45,30.0,150
+devops engineer,GCP,37,24.7,150
+devops engineer,MySQL,24,16.0,150
+devops engineer,SQL,20,13.3,150
+devops engineer,DNS/DHCP,18,12.0,150
+devops engineer,MongoDB,18,12.0,150
+devops engineer,Database Backup & Recovery,16,10.7,150
+devops engineer,Firewalls,16,10.7,150
+devops engineer,PostgreSQL,14,9.3,150
+devops engineer,TCP/IP,13,8.7,150
+devops engineer,SQL Server,13,8.7,150
+devops engineer,Node.js,13,8.7,150
+devops engineer,C#,12,8.0,150
+devops engineer,Artificial Intelligence,10,6.7,150
+devops engineer,.NET,10,6.7,150
+devops engineer,Redis,9,6.0,150
+devops engineer,JavaScript,9,6.0,150
+devops engineer,Performance Tuning,8,5.3,150
+devops engineer,PHP,7,4.7,150
+devops engineer,VPN,7,4.7,150
+devops engineer,C++,7,4.7,150
+devops engineer,Machine Learning,6,4.0,150
+devops engineer,REST APIs,5,3.3,150
+devops engineer,Angular,5,3.3,150
+devops engineer,Cisco,5,3.3,150
+devops engineer,Windows Server,5,3.3,150
+devops engineer,React,4,2.7,150
+devops engineer,HTML,4,2.7,150
+devops engineer,Android,4,2.7,150
+devops engineer,iOS,4,2.7,150
+devops engineer,Technical Support,4,2.7,150
+devops engineer,Oracle,4,2.7,150
+devops engineer,Go,3,2.0,150
+devops engineer,Active Directory,3,2.0,150
+devops engineer,CSS,3,2.0,150
+devops engineer,LAN/WAN,3,2.0,150
+devops engineer,Swift,2,1.3,150
+devops engineer,Deep Learning,2,1.3,150
+devops engineer,Kotlin,2,1.3,150
+devops engineer,Computer Vision,2,1.3,150
+devops engineer,Django,2,1.3,150
+devops engineer,T-SQL,1,0.7,150
+devops engineer,Spring Boot,1,0.7,150
+devops engineer,NLP,1,0.7,150
+devops engineer,Flask,1,0.7,150
+devops engineer,TypeScript,1,0.7,150
+devops engineer,GraphQL,1,0.7,150
+devops engineer,MariaDB,1,0.7,150
+django developer,Django,144,96.0,150
+django developer,Python,142,94.7,150
+django developer,HTML,66,44.0,150
+django developer,JavaScript,65,43.3,150
+django developer,CSS,61,40.7,150
+django developer,Git,49,32.7,150
+django developer,MySQL,45,30.0,150
+django developer,REST APIs,39,26.0,150
+django developer,AWS,38,25.3,150
+django developer,Flask,34,22.7,150
+django developer,React,31,20.7,150
+django developer,SQL,27,18.0,150
+django developer,Angular,27,18.0,150
+django developer,jQuery,27,18.0,150
+django developer,Linux,25,16.7,150
+django developer,Agile,25,16.7,150
+django developer,PostgreSQL,23,15.3,150
+django developer,MongoDB,17,11.3,150
+django developer,Machine Learning,17,11.3,150
+django developer,Troubleshooting,13,8.7,150
+django developer,Artificial Intelligence,12,8.0,150
+django developer,Redis,12,8.0,150
+django developer,Docker,10,6.7,150
+django developer,Java,7,4.7,150
+django developer,CI/CD,7,4.7,150
+django developer,NumPy,6,4.0,150
+django developer,Oracle,6,4.0,150
+django developer,Jenkins,6,4.0,150
+django developer,Ansible,6,4.0,150
+django developer,PHP,5,3.3,150
+django developer,Azure,5,3.3,150
+django developer,Pandas,4,2.7,150
+django developer,Node.js,4,2.7,150
+django developer,Kubernetes,4,2.7,150
+django developer,Vue.js,3,2.0,150
+django developer,NLP,3,2.0,150
+django developer,Android,3,2.0,150
+django developer,C++,2,1.3,150
+django developer,TensorFlow,2,1.3,150
+django developer,Deep Learning,2,1.3,150
+django developer,Spring Boot,2,1.3,150
+django developer,Performance Tuning,2,1.3,150
+django developer,SQL Server,2,1.3,150
+django developer,GCP,2,1.3,150
+django developer,Terraform,2,1.3,150
+django developer,.NET,2,1.3,150
+django developer,PyTorch,1,0.7,150
+django developer,scikit-learn,1,0.7,150
+django developer,Express.js,1,0.7,150
+django developer,TCP/IP,1,0.7,150
+django developer,Firewalls,1,0.7,150
+django developer,C#,1,0.7,150
+django developer,TypeScript,1,0.7,150
+django developer,GraphQL,1,0.7,150
+django developer,WordPress,1,0.7,150
+django developer,Kotlin,1,0.7,150
+django developer,MariaDB,1,0.7,150
+flutter developer,Flutter,145,95.4,152
+flutter developer,Android,117,77.0,152
+flutter developer,iOS,94,61.8,152
+flutter developer,Dart,50,32.9,152
+flutter developer,Git,46,30.3,152
+flutter developer,Java,44,28.9,152
+flutter developer,REST APIs,43,28.3,152
+flutter developer,JavaScript,24,15.8,152
+flutter developer,Swift,21,13.8,152
+flutter developer,CI/CD,19,12.5,152
+flutter developer,Agile,18,11.8,152
+flutter developer,Kotlin,18,11.8,152
+flutter developer,React,15,9.9,152
+flutter developer,HTML,12,7.9,152
+flutter developer,Performance Tuning,12,7.9,152
+flutter developer,SQL,12,7.9,152
+flutter developer,Angular,10,6.6,152
+flutter developer,CSS,9,5.9,152
+flutter developer,MySQL,9,5.9,152
+flutter developer,Xcode,8,5.3,152
+flutter developer,PHP,8,5.3,152
+flutter developer,Node.js,5,3.3,152
+flutter developer,Jenkins,5,3.3,152
+flutter developer,jQuery,3,2.0,152
+flutter developer,GraphQL,3,2.0,152
+flutter developer,Database Backup & Recovery,3,2.0,152
+flutter developer,AWS,3,2.0,152
+flutter developer,C++,3,2.0,152
+flutter developer,Linux,2,1.3,152
+flutter developer,Troubleshooting,2,1.3,152
+flutter developer,GCP,2,1.3,152
+flutter developer,.NET,1,0.7,152
+flutter developer,PostgreSQL,1,0.7,152
+flutter developer,MongoDB,1,0.7,152
+flutter developer,Machine Learning,1,0.7,152
+flutter developer,TypeScript,1,0.7,152
+flutter developer,Express.js,1,0.7,152
+flutter developer,SQL Server,1,0.7,152
+flutter developer,Artificial Intelligence,1,0.7,152
+flutter developer,Python,1,0.7,152
+flutter developer,C#,1,0.7,152
+flutter developer,WordPress,1,0.7,152
+full stack developer,JavaScript,93,68.9,135
+full stack developer,HTML,69,51.1,135
+full stack developer,React,63,46.7,135
+full stack developer,Agile,53,39.3,135
+full stack developer,Angular,50,37.0,135
+full stack developer,Java,50,37.0,135
+full stack developer,Git,41,30.4,135
+full stack developer,SQL,35,25.9,135
+full stack developer,Python,33,24.4,135
+full stack developer,Node.js,32,23.7,135
+full stack developer,AWS,31,23.0,135
+full stack developer,MySQL,29,21.5,135
+full stack developer,jQuery,28,20.7,135
+full stack developer,REST APIs,25,18.5,135
+full stack developer,CSS,24,17.8,135
+full stack developer,PHP,23,17.0,135
+full stack developer,.NET,22,16.3,135
+full stack developer,Linux,22,16.3,135
+full stack developer,CI/CD,21,15.6,135
+full stack developer,Troubleshooting,17,12.6,135
+full stack developer,Spring Boot,16,11.9,135
+full stack developer,MongoDB,14,10.4,135
+full stack developer,Jenkins,13,9.6,135
+full stack developer,SQL Server,13,9.6,135
+full stack developer,C++,12,8.9,135
+full stack developer,PostgreSQL,12,8.9,135
+full stack developer,Redis,9,6.7,135
+full stack developer,Machine Learning,9,6.7,135
+full stack developer,Docker,9,6.7,135
+full stack developer,WordPress,8,5.9,135
+full stack developer,TypeScript,7,5.2,135
+full stack developer,Oracle,7,5.2,135
+full stack developer,Android,6,4.4,135
+full stack developer,Vue.js,5,3.7,135
+full stack developer,Flask,5,3.7,135
+full stack developer,Express.js,5,3.7,135
+full stack developer,Azure,5,3.7,135
+full stack developer,GCP,4,3.0,135
+full stack developer,Technical Support,4,3.0,135
+full stack developer,Go,4,3.0,135
+full stack developer,Django,4,3.0,135
+full stack developer,GraphQL,4,3.0,135
+full stack developer,Laravel,4,3.0,135
+full stack developer,Swift,3,2.2,135
+full stack developer,T-SQL,3,2.2,135
+full stack developer,Kubernetes,2,1.5,135
+full stack developer,Performance Tuning,2,1.5,135
+full stack developer,Firewalls,2,1.5,135
+full stack developer,TCP/IP,2,1.5,135
+full stack developer,Cisco,2,1.5,135
+full stack developer,TensorFlow,1,0.7,135
+full stack developer,Computer Vision,1,0.7,135
+full stack developer,Artificial Intelligence,1,0.7,135
+full stack developer,Database Backup & Recovery,1,0.7,135
+full stack developer,iOS,1,0.7,135
+full stack developer,DNS/DHCP,1,0.7,135
+full stack developer,Ansible,1,0.7,135
+full stack developer,Terraform,1,0.7,135
+full stack developer,MariaDB,1,0.7,135
+ios developer,iOS,143,92.9,154
+ios developer,Swift,114,74.0,154
+ios developer,Git,50,32.5,154
+ios developer,REST APIs,50,32.5,154
+ios developer,Xcode,44,28.6,154
+ios developer,Performance Tuning,29,18.8,154
+ios developer,Agile,25,16.2,154
+ios developer,CI/CD,24,15.6,154
+ios developer,C++,14,9.1,154
+ios developer,Android,13,8.4,154
+ios developer,JavaScript,12,7.8,154
+ios developer,Java,12,7.8,154
+ios developer,React,10,6.5,154
+ios developer,HTML,9,5.8,154
+ios developer,Troubleshooting,7,4.5,154
+ios developer,CSS,7,4.5,154
+ios developer,SQL,6,3.9,154
+ios developer,C#,6,3.9,154
+ios developer,AWS,5,3.2,154
+ios developer,Flutter,4,2.6,154
+ios developer,Python,3,1.9,154
+ios developer,jQuery,3,1.9,154
+ios developer,Azure,3,1.9,154
+ios developer,Node.js,2,1.3,154
+ios developer,Angular,2,1.3,154
+ios developer,Kotlin,2,1.3,154
+ios developer,Docker,2,1.3,154
+ios developer,Artificial Intelligence,2,1.3,154
+ios developer,Machine Learning,1,0.6,154
+ios developer,.NET,1,0.6,154
+ios developer,MySQL,1,0.6,154
+ios developer,Express.js,1,0.6,154
+ios developer,Linux,1,0.6,154
+ios developer,Jenkins,1,0.6,154
+ios developer,Spring Boot,1,0.6,154
+ios developer,Computer Vision,1,0.6,154
+ios developer,PHP,1,0.6,154
+java developer,Java,130,82.3,158
+java developer,Agile,83,52.5,158
+java developer,SQL,74,46.8,158
+java developer,Spring Boot,73,46.2,158
+java developer,JavaScript,67,42.4,158
+java developer,Angular,48,30.4,158
+java developer,Git,48,30.4,158
+java developer,HTML,47,29.7,158
+java developer,CSS,43,27.2,158
+java developer,CI/CD,39,24.7,158
+java developer,Troubleshooting,37,23.4,158
+java developer,.NET,32,20.3,158
+java developer,REST APIs,32,20.3,158
+java developer,React,31,19.6,158
+java developer,Oracle,31,19.6,158
+java developer,AWS,28,17.7,158
+java developer,jQuery,28,17.7,158
+java developer,C#,27,17.1,158
+java developer,Jenkins,25,15.8,158
+java developer,MySQL,24,15.2,158
+java developer,Linux,24,15.2,158
+java developer,SQL Server,23,14.6,158
+java developer,Python,22,13.9,158
+java developer,Docker,20,12.7,158
+java developer,Artificial Intelligence,19,12.0,158
+java developer,Node.js,18,11.4,158
+java developer,MongoDB,18,11.4,158
+java developer,Kubernetes,14,8.9,158
+java developer,Vue.js,13,8.2,158
+java developer,Android,12,7.6,158
+java developer,Azure,12,7.6,158
+java developer,PHP,12,7.6,158
+java developer,PostgreSQL,11,7.0,158
+java developer,Machine Learning,11,7.0,158
+java developer,C++,10,6.3,158
+java developer,PL/SQL,8,5.1,158
+java developer,TypeScript,7,4.4,158
+java developer,Redis,7,4.4,158
+java developer,Ansible,6,3.8,158
+java developer,Performance Tuning,6,3.8,158
+java developer,iOS,6,3.8,158
+java developer,Technical Support,4,2.5,158
+java developer,Express.js,3,1.9,158
+java developer,Xcode,3,1.9,158
+java developer,T-SQL,3,1.9,158
+java developer,Laravel,3,1.9,158
+java developer,GraphQL,2,1.3,158
+java developer,Swift,2,1.3,158
+java developer,WordPress,2,1.3,158
+java developer,Django,2,1.3,158
+java developer,GCP,2,1.3,158
+java developer,Dart,1,0.6,158
+java developer,Cisco,1,0.6,158
+java developer,Go,1,0.6,158
+java developer,TCP/IP,1,0.6,158
+java developer,Active Directory,1,0.6,158
+java developer,DNS/DHCP,1,0.6,158
+java developer,Kotlin,1,0.6,158
+java developer,Terraform,1,0.6,158
+java developer,Computer Vision,1,0.6,158
+java developer,Windows Server,1,0.6,158
+javascript developer,JavaScript,154,94.5,163
+javascript developer,CSS,106,65.0,163
+javascript developer,HTML,106,65.0,163
+javascript developer,Angular,75,46.0,163
+javascript developer,React,74,45.4,163
+javascript developer,Node.js,51,31.3,163
+javascript developer,jQuery,46,28.2,163
+javascript developer,Java,44,27.0,163
+javascript developer,Agile,42,25.8,163
+javascript developer,Git,42,25.8,163
+javascript developer,REST APIs,37,22.7,163
+javascript developer,AWS,30,18.4,163
+javascript developer,SQL,27,16.6,163
+javascript developer,Vue.js,24,14.7,163
+javascript developer,TypeScript,24,14.7,163
+javascript developer,Azure,15,9.2,163
+javascript developer,MongoDB,15,9.2,163
+javascript developer,Troubleshooting,12,7.4,163
+javascript developer,Python,11,6.7,163
+javascript developer,Linux,11,6.7,163
+javascript developer,Spring Boot,11,6.7,163
+javascript developer,C#,10,6.1,163
+javascript developer,MySQL,10,6.1,163
+javascript developer,PHP,10,6.1,163
+javascript developer,PostgreSQL,9,5.5,163
+javascript developer,Express.js,9,5.5,163
+javascript developer,CI/CD,9,5.5,163
+javascript developer,Oracle,9,5.5,163
+javascript developer,GCP,8,4.9,163
+javascript developer,Artificial Intelligence,8,4.9,163
+javascript developer,Kubernetes,7,4.3,163
+javascript developer,Jenkins,7,4.3,163
+javascript developer,Cisco,6,3.7,163
+javascript developer,SQL Server,6,3.7,163
+javascript developer,Technical Support,6,3.7,163
+javascript developer,.NET,5,3.1,163
+javascript developer,Docker,4,2.5,163
+javascript developer,Android,4,2.5,163
+javascript developer,iOS,4,2.5,163
+javascript developer,C++,4,2.5,163
+javascript developer,DNS/DHCP,3,1.8,163
+javascript developer,Machine Learning,3,1.8,163
+javascript developer,GraphQL,2,1.2,163
+javascript developer,Flask,2,1.2,163
+javascript developer,PL/SQL,2,1.2,163
+javascript developer,WordPress,2,1.2,163
+javascript developer,Django,2,1.2,163
+javascript developer,PyTorch,1,0.6,163
+javascript developer,TensorFlow,1,0.6,163
+javascript developer,scikit-learn,1,0.6,163
+javascript developer,Flutter,1,0.6,163
+javascript developer,MariaDB,1,0.6,163
+javascript developer,Firewalls,1,0.6,163
+javascript developer,TCP/IP,1,0.6,163
+javascript developer,VPN,1,0.6,163
+javascript developer,Performance Tuning,1,0.6,163
+javascript developer,Active Directory,1,0.6,163
+machine learning,Machine Learning,139,95.2,146
+machine learning,Python,116,79.5,146
+machine learning,Artificial Intelligence,61,41.8,146
+machine learning,TensorFlow,47,32.2,146
+machine learning,SQL,47,32.2,146
+machine learning,Deep Learning,44,30.1,146
+machine learning,AWS,38,26.0,146
+machine learning,NLP,38,26.0,146
+machine learning,PyTorch,32,21.9,146
+machine learning,Java,32,21.9,146
+machine learning,Computer Vision,30,20.5,146
+machine learning,Azure,22,15.1,146
+machine learning,scikit-learn,21,14.4,146
+machine learning,C++,21,14.4,146
+machine learning,NumPy,18,12.3,146
+machine learning,Agile,18,12.3,146
+machine learning,Docker,17,11.6,146
+machine learning,Pandas,16,11.0,146
+machine learning,Linux,13,8.9,146
+machine learning,Git,13,8.9,146
+machine learning,CI/CD,11,7.5,146
+machine learning,Kubernetes,11,7.5,146
+machine learning,GCP,10,6.8,146
+machine learning,Troubleshooting,9,6.2,146
+machine learning,MongoDB,9,6.2,146
+machine learning,JavaScript,8,5.5,146
+machine learning,C#,7,4.8,146
+machine learning,REST APIs,6,4.1,146
+machine learning,MySQL,6,4.1,146
+machine learning,Angular,5,3.4,146
+machine learning,Performance Tuning,4,2.7,146
+machine learning,PostgreSQL,4,2.7,146
+machine learning,HTML,4,2.7,146
+machine learning,Android,4,2.7,146
+machine learning,Oracle,4,2.7,146
+machine learning,.NET,3,2.1,146
+machine learning,iOS,3,2.1,146
+machine learning,Node.js,3,2.1,146
+machine learning,Redis,2,1.4,146
+machine learning,CSS,2,1.4,146
+machine learning,PL/SQL,2,1.4,146
+machine learning,Terraform,2,1.4,146
+machine learning,Cisco,2,1.4,146
+machine learning,SQL Server,2,1.4,146
+machine learning,Technical Support,2,1.4,146
+machine learning,Jenkins,2,1.4,146
+machine learning,Database Backup & Recovery,2,1.4,146
+machine learning,Flask,2,1.4,146
+machine learning,Express.js,1,0.7,146
+machine learning,React,1,0.7,146
+machine learning,TypeScript,1,0.7,146
+machine learning,T-SQL,1,0.7,146
+machine learning,Laravel,1,0.7,146
+machine learning,PHP,1,0.7,146
+network administrator,Troubleshooting,78,64.5,121
+network administrator,Firewalls,64,52.9,121
+network administrator,Cisco,47,38.8,121
+network administrator,Database Backup & Recovery,43,35.5,121
+network administrator,LAN/WAN,40,33.1,121
+network administrator,VPN,34,28.1,121
+network administrator,Linux,34,28.1,121
+network administrator,DNS/DHCP,22,18.2,121
+network administrator,Technical Support,20,16.5,121
+network administrator,Windows Server,17,14.0,121
+network administrator,Azure,12,9.9,121
+network administrator,SQL,11,9.1,121
+network administrator,Python,10,8.3,121
+network administrator,TCP/IP,10,8.3,121
+network administrator,Active Directory,10,8.3,121
+network administrator,AWS,9,7.4,121
+network administrator,iOS,8,6.6,121
+network administrator,Agile,7,5.8,121
+network administrator,Ansible,5,4.1,121
+network administrator,HTML,5,4.1,121
+network administrator,.NET,5,4.1,121
+network administrator,Artificial Intelligence,5,4.1,121
+network administrator,C#,4,3.3,121
+network administrator,JavaScript,4,3.3,121
+network administrator,CSS,3,2.5,121
+network administrator,Oracle,3,2.5,121
+network administrator,C++,3,2.5,121
+network administrator,SQL Server,3,2.5,121
+network administrator,MySQL,2,1.7,121
+network administrator,Java,2,1.7,121
+network administrator,jQuery,2,1.7,121
+network administrator,PHP,1,0.8,121
+network administrator,Express.js,1,0.8,121
+network administrator,Git,1,0.8,121
+network administrator,Angular,1,0.8,121
+network administrator,Kubernetes,1,0.8,121
+network administrator,Docker,1,0.8,121
+network administrator,React,1,0.8,121
+network administrator,Android,1,0.8,121
+network administrator,REST APIs,1,0.8,121
+network administrator,CI/CD,1,0.8,121
+network administrator,T-SQL,1,0.8,121
+network administrator,PL/SQL,1,0.8,121
+network administrator,GCP,1,0.8,121
+node js developer,Node.js,153,96.2,159
+node js developer,JavaScript,107,67.3,159
+node js developer,HTML,71,44.7,159
+node js developer,CSS,70,44.0,159
+node js developer,Express.js,68,42.8,159
+node js developer,Angular,67,42.1,159
+node js developer,MongoDB,63,39.6,159
+node js developer,Git,61,38.4,159
+node js developer,React,53,33.3,159
+node js developer,REST APIs,48,30.2,159
+node js developer,MySQL,38,23.9,159
+node js developer,AWS,36,22.6,159
+node js developer,Agile,27,17.0,159
+node js developer,Java,25,15.7,159
+node js developer,SQL,22,13.8,159
+node js developer,jQuery,17,10.7,159
+node js developer,TypeScript,16,10.1,159
+node js developer,PostgreSQL,15,9.4,159
+node js developer,Linux,14,8.8,159
+node js developer,Docker,13,8.2,159
+node js developer,Redis,13,8.2,159
+node js developer,CI/CD,12,7.5,159
+node js developer,Troubleshooting,10,6.3,159
+node js developer,PHP,9,5.7,159
+node js developer,Azure,8,5.0,159
+node js developer,Vue.js,7,4.4,159
+node js developer,Jenkins,6,3.8,159
+node js developer,Python,6,3.8,159
+node js developer,Technical Support,5,3.1,159
+node js developer,Kubernetes,4,2.5,159
+node js developer,GraphQL,3,1.9,159
+node js developer,Android,3,1.9,159
+node js developer,iOS,3,1.9,159
+node js developer,GCP,3,1.9,159
+node js developer,Spring Boot,3,1.9,159
+node js developer,SQL Server,3,1.9,159
+node js developer,Machine Learning,2,1.3,159
+node js developer,Artificial Intelligence,2,1.3,159
+node js developer,Performance Tuning,2,1.3,159
+node js developer,Oracle,2,1.3,159
+node js developer,Laravel,2,1.3,159
+node js developer,Swift,1,0.6,159
+node js developer,Go,1,0.6,159
+node js developer,Database Backup & Recovery,1,0.6,159
+node js developer,Django,1,0.6,159
+node js developer,C++,1,0.6,159
+php developer,PHP,151,98.1,154
+php developer,HTML,116,75.3,154
+php developer,JavaScript,112,72.7,154
+php developer,CSS,111,72.1,154
+php developer,MySQL,93,60.4,154
+php developer,Laravel,81,52.6,154
+php developer,jQuery,78,50.6,154
+php developer,Git,53,34.4,154
+php developer,SQL,44,28.6,154
+php developer,WordPress,37,24.0,154
+php developer,REST APIs,29,18.8,154
+php developer,Angular,28,18.2,154
+php developer,Python,25,16.2,154
+php developer,Troubleshooting,23,14.9,154
+php developer,Vue.js,14,9.1,154
+php developer,Linux,13,8.4,154
+php developer,Java,13,8.4,154
+php developer,Agile,12,7.8,154
+php developer,AWS,11,7.1,154
+php developer,React,11,7.1,154
+php developer,.NET,9,5.8,154
+php developer,Node.js,8,5.2,154
+php developer,Performance Tuning,8,5.2,154
+php developer,MongoDB,7,4.5,154
+php developer,Redis,6,3.9,154
+php developer,PostgreSQL,4,2.6,154
+php developer,SQL Server,4,2.6,154
+php developer,Technical Support,3,1.9,154
+php developer,Android,3,1.9,154
+php developer,Database Backup & Recovery,2,1.3,154
+php developer,C++,2,1.3,154
+php developer,Jenkins,2,1.3,154
+php developer,CI/CD,2,1.3,154
+php developer,Django,1,0.6,154
+php developer,iOS,1,0.6,154
+php developer,Ansible,1,0.6,154
+php developer,C#,1,0.6,154
+php developer,Azure,1,0.6,154
+php developer,Flutter,1,0.6,154
+software engineer,Java,83,56.1,148
+software engineer,Agile,73,49.3,148
+software engineer,SQL,50,33.8,148
+software engineer,Python,42,28.4,148
+software engineer,Linux,39,26.4,148
+software engineer,JavaScript,38,25.7,148
+software engineer,AWS,34,23.0,148
+software engineer,CI/CD,33,22.3,148
+software engineer,Spring Boot,31,20.9,148
+software engineer,Git,28,18.9,148
+software engineer,REST APIs,28,18.9,148
+software engineer,CSS,28,18.9,148
+software engineer,C++,26,17.6,148
+software engineer,Angular,26,17.6,148
+software engineer,HTML,26,17.6,148
+software engineer,Troubleshooting,25,16.9,148
+software engineer,Jenkins,24,16.2,148
+software engineer,React,21,14.2,148
+software engineer,C#,20,13.5,148
+software engineer,.NET,19,12.8,148
+software engineer,SQL Server,19,12.8,148
+software engineer,Oracle,19,12.8,148
+software engineer,MySQL,18,12.2,148
+software engineer,Azure,16,10.8,148
+software engineer,PostgreSQL,16,10.8,148
+software engineer,Docker,16,10.8,148
+software engineer,MongoDB,15,10.1,148
+software engineer,Kubernetes,14,9.5,148
+software engineer,Machine Learning,13,8.8,148
+software engineer,Node.js,11,7.4,148
+software engineer,GCP,7,4.7,148
+software engineer,jQuery,6,4.1,148
+software engineer,Android,6,4.1,148
+software engineer,Technical Support,6,4.1,148
+software engineer,Artificial Intelligence,6,4.1,148
+software engineer,Redis,5,3.4,148
+software engineer,Ansible,5,3.4,148
+software engineer,TypeScript,5,3.4,148
+software engineer,Performance Tuning,5,3.4,148
+software engineer,iOS,4,2.7,148
+software engineer,PL/SQL,4,2.7,148
+software engineer,PHP,4,2.7,148
+software engineer,Flask,3,2.0,148
+software engineer,TCP/IP,3,2.0,148
+software engineer,Computer Vision,3,2.0,148
+software engineer,Deep Learning,3,2.0,148
+software engineer,scikit-learn,3,2.0,148
+software engineer,Django,2,1.4,148
+software engineer,Firewalls,2,1.4,148
+software engineer,Kotlin,2,1.4,148
+software engineer,Swift,2,1.4,148
+software engineer,NumPy,2,1.4,148
+software engineer,Vue.js,2,1.4,148
+software engineer,T-SQL,2,1.4,148
+software engineer,PyTorch,2,1.4,148
+software engineer,TensorFlow,2,1.4,148
+software engineer,Terraform,1,0.7,148
+software engineer,Database Backup & Recovery,1,0.7,148
+software engineer,Pandas,1,0.7,148
+software engineer,Cisco,1,0.7,148
+software engineer,VPN,1,0.7,148
+software engineer,LAN/WAN,1,0.7,148
+software engineer,Xcode,1,0.7,148
+software engineer,GraphQL,1,0.7,148
+software engineer,Go,1,0.7,148
+software engineer,Laravel,1,0.7,148
+software engineer,NLP,1,0.7,148
+software engineer,DNS/DHCP,1,0.7,148
+software engineer,Express.js,1,0.7,148
+wordpress developer,WordPress,129,98.5,131
+wordpress developer,HTML,108,82.4,131
+wordpress developer,CSS,105,80.2,131
+wordpress developer,JavaScript,96,73.3,131
+wordpress developer,PHP,94,71.8,131
+wordpress developer,jQuery,85,64.9,131
+wordpress developer,MySQL,52,39.7,131
+wordpress developer,Git,43,32.8,131
+wordpress developer,REST APIs,29,22.1,131
+wordpress developer,Troubleshooting,19,14.5,131
+wordpress developer,React,12,9.2,131
+wordpress developer,Angular,8,6.1,131
+wordpress developer,Laravel,6,4.6,131
+wordpress developer,Agile,5,3.8,131
+wordpress developer,AWS,5,3.8,131
+wordpress developer,SQL,4,3.1,131
+wordpress developer,Java,3,2.3,131
+wordpress developer,Vue.js,2,1.5,131
+wordpress developer,DNS/DHCP,2,1.5,131
+wordpress developer,Android,2,1.5,131
+wordpress developer,Linux,2,1.5,131
+wordpress developer,CI/CD,1,0.8,131
+wordpress developer,.NET,1,0.8,131
+wordpress developer,Kubernetes,1,0.8,131
+wordpress developer,Ansible,1,0.8,131
+wordpress developer,Technical Support,1,0.8,131
+wordpress developer,Docker,1,0.8,131
+wordpress developer,Azure,1,0.8,131
+wordpress developer,Artificial Intelligence,1,0.8,131
+wordpress developer,Node.js,1,0.8,131
+wordpress developer,MongoDB,1,0.8,131
+wordpress developer,Redis,1,0.8,131
+wordpress developer,Swift,1,0.8,131
+wordpress developer,iOS,1,0.8,131
